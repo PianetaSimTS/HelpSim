@@ -1,5 +1,10 @@
 { 
     "version": "0.0.1.5", 
-    "releaseNotes": "Rilascio", 
-    "updateUrl": "https://github.com/PianetaSimTS/HelpSim/releases/download/HelpSim/HelpSim.exe" 
+    "releaseNotes": [
+        "Corretto testo avviso stato mod.",
+        "Verifica stato ora avvisa se non sono collegate le mod al sito.",
+        "Aggiunto avviso conferma eliminazione mod.",
+        "Durante l'installazione mod il programma avvisa se sono presenti TxT."
+    ],
+    "updateUrl": "https://github.com/PianetaSimTS/HelpSim/releases/download/HelpSim/HelpSim.exe"
 }
