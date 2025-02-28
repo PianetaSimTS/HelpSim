@@ -1,5 +1,5 @@
 { 
-    "version": "0.0.1.5", 
+    "version": "0.0.1.6", 
     "releaseNotes": [
         "Corretto testo avviso stato mod.",
         "Verifica stato ora avvisa se non sono collegate le mod al sito.",
