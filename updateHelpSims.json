@@ -1,13 +1,7 @@
 { 
-    "version": "0.0.1.7", 
+    "version": "0.0.1.8", 
     "releaseNotes": [
-        "Fix ricerca collegamento al sito mod18",
-        "Fix collegamento a sito (logica prgramma, si sovrapponevano i collegamenti se collegate più di una volta)",
-        "Fix perdita pallino stato mod a seguito cambio mod o rinomina",
-        "Fix cancellazione mod, una volta cancellata continuava a rimanere visibile in verifica stato",
-        "Aggiunto dipendenze in base al sito, ora le mod installate e collegate al sito verificano le dipendenze per funzionare e ti avviserà in caso di problemi",
-        "Aggiunto nuova schermata di backup e ripristino, ora HelpSim è in grado di fare e farti gestire i backup evitando errori",
-        "Aggiunto un avviso per le mod con Stato di aggiornata, le mod AGGIORNATE rimanevano in questo stato anche se scaricate recentemente, abbiamo aggiunto un avviso per evitare questo SI CONSIGLIA DI RICOLLEGARE LE MOD CON LO STATO DI AGGIORNATA (PALLINO VERDE)"
+     "Aggiornamento pulizis the sims4"
     ],
     "updateUrl": "https://github.com/PianetaSimTS/HelpSim/releases/download/HelpSim/HelpSim.exe"
 }
