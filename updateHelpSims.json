@@ -1,7 +1,8 @@
 { 
     "version": "0.0.1.8", 
     "releaseNotes": [
-     "Aggiornamento pulizia the sims4"
+     "Aggiornamento pulizia the sims4",
+     "Test"
     ],
     "updateUrl": "https://github.com/PianetaSimTS/HelpSim/releases/download/HelpSim/HelpSim.exe"
 }
