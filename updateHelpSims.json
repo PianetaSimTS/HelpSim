@@ -1,8 +1,7 @@
 { 
     "version": "0.0.1.9", 
     "releaseNotes": [
-     "Aggiornamento pulizia the sims4",
-     "Test"
+     "Inserita logica cambio lingua"
     ],
     "updateUrl": "https://github.com/PianetaSimTS/HelpSim/releases/download/HelpSim/HelpSim.exe"
 }
