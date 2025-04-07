@@ -1,7 +1,9 @@
 { 
-    "version": "0.0.1.9", 
+    "version": "0.0.2.9", 
     "releaseNotes": [
-     "Inserita logica cambio lingua"
+     "Inserita Guida in inglese",
+     "Cambio logica update",
+     "Inserito bottone per resettare la lista"
     ],
     "updateUrl": "https://github.com/PianetaSimTS/HelpSim/releases/download/HelpSim/HelpSim.exe"
 }
