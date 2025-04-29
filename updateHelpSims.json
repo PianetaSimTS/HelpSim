@@ -1,9 +1,8 @@
 { 
-    "version": "0.0.2.0", 
+    "version": "0.0.2.1", 
     "releaseNotes": [
-     "Inserita Guida in inglese",
-     "Cambio logica update",
-     "Inserito bottone per resettare la lista"
+     "Fix Doppio click mouse non apriva la mod",
+     "Fix tasto canc non eliminava le mod"
     ],
     "updateUrl": "https://github.com/PianetaSimTS/HelpSim/releases/download/HelpSim/HelpSim.exe"
 }
